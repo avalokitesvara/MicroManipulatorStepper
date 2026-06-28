@@ -28,12 +28,12 @@
 | 10 µF Ceramic Capacitor 0603 | 3 | Optional |  | |
 | 4.7 k Resistor 0603 | 2 | Optional |  | |
 | NEMA 17 Stepper Motor | 3 | Body ≤ 38 mm | Body length <= 38mm | |
-| JST XH2.54 4P connector | 3 | 4P Housing + header 2.5mm pitch | J1, J2, J3 (motors) | [Aliexpress](https://www.aliexpress.com/item/1005007080333485.html?spm=a2g0o.order_list.order_list_main.53.3d5d1802JZg5Wb) | |
-| XT60H Connector | 1 | 2 Pin Power Header 7.5mm pitch | XT60H male + female pair | [Aliexpress]([https://www.aliexpress.com/item/1005007080333485.html?spm=a2g0o.order_list.order_list_main.53.3d5d1802JZg5Wb](https://www.aliexpress.com/item/1005007605928815.html?spm=a2g0o.order_list.order_list_main.113.3d5d1802JZg5Wb)) | |
-| PH2.0 4P Housing | 1 | 4P 2mm pitch Housing | J5 (tool/I2C) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.3.2b60126a5SMahl) | |
-| PH2.0 4P Header | 1 | 4P 2mm pitch Header | J5 (tool/I2C) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.7.2b60126a5SMahl) | |
-| PH2.0 8P Housing | 1 | 8P 2mm pitch Housing | J4 (encoders) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.3.2b60126a5SMahl) | |
-| PH2.0 8P Header | 1 | 8P 2mm pitch Header | J4 (encoders) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.7.2b60126a5SMahl) | |
+| JST XH2.54 4P connector | 3 | 4P Housing & Header 2.54mm pitch | J1, J2, J3 (motors) | [Aliexpress](https://www.aliexpress.com/item/1005007080333485.html?spm=a2g0o.order_list.order_list_main.53.3d5d1802JZg5Wb) | ![JST XH2.54 Connector](images/JST_XH2.54_Connector.png) |
+| XT60H Connector | 1 | 2 Pin Power Header 7.5mm pitch | XT60H male + female pair | [Aliexpress](https://www.aliexpress.com/item/1005007605928815.html?spm=a2g0o.order_list.order_list_main.409.3d5d1802JZg5Wb) | ![XT60H Connector](images/XT60H_Pairs.png) |
+| PH2.0 4P Housing | 1 | 4P 2mm pitch Housing | J5 (tool/I2C) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.3.2b60126a5SMahl) | ![PH2.0 Housings](images/PH2_Housings.png) |
+| PH2.0 4P Header | 1 | 4P 2mm pitch Header | J5 (tool/I2C) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.7.2b60126a5SMahl) | ![PH2.0 Headers](images/PH2_Headers.png) |
+| PH2.0 8P Housing | 1 | 8P 2mm pitch Housing | J4 (encoders) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.3.2b60126a5SMahl) | ![PH2.0 Housings](images/PH2_Housings.png) |
+| PH2.0 8P Header | 1 | 8P 2mm pitch Header | J4 (encoders) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.7.2b60126a5SMahl) | ![PH2.0 Headers](images/PH2_Headers.png) |
 ## PCBs
 
 | Name                | Qty | Description | Comments | Image |
