@@ -19,7 +19,7 @@
 
 | Name | Qty | Description | Comments | Suggested link | Image |
 |------|-----|-------------|----------|----------------|-------|
-| DC-DC Step Down Module | 1 | 4.75–23 V Step-Down Buck Converter |  | [Aliexpress](https://www.aliexpress.us/item/3256806752772875.html)| ![DC-DC Step Down](images/DC_DC-StepDown.png)|
+| DC-DC Step Down Module | 1 | 5V Fixed Output Step-Down Buck Converter |  | [Aliexpress](https://www.aliexpress.com/item/1005008257960729.html)| ![DC-DC Step Down](images/DC_DC-StepDown.png)|
 | (1N5819) OR (PMEG4010) | 1 | Diode (through-hole or SMD) |  | |
 | Raspberry Pi Pico 2 | 1 | Microcontroller board |  | | ![Raspberry Pi Pico 2](images/RaspberryPiPico2.png)|
 | MT6835 Magnetic Encoder Module | 3 | Magnetic encoder |  | [Aliexpress](https://www.aliexpress.us/item/3256808005140674.html)| ![MT6835 Magnetic Encoder Module](images/MT6835.png)|
